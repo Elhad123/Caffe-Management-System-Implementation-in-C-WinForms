@@ -1,0 +1,54 @@
+
+==================== NEW ORDER ====================
+
+Employee Information
+--------------------
+Name   : elhad
+Date   : 13. 6. 2025. 00:43:51
+
+Order Items
+-----------
+10 x CocaCola @ 5,00 KM = 50,00 KM
+
+Total Order Value: 0,00 KM
+
+==================== NEW ORDER ====================
+
+Employee Information
+--------------------
+Name   : elhad
+Date   : 13. 6. 2025. 00:43:51
+
+Order Items
+-----------
+1 x Kafa @ 2,00 KM = 2,00 KM
+1 x Sladoled Čokolada @ 2,00 KM = 2,00 KM
+
+Total Order Value: 4,00 KM
+
+==================== NEW ORDER ====================
+
+Employee Information
+--------------------
+Name   : elhad
+Date   : 13. 6. 2025. 00:43:54
+
+Order Items
+-----------
+10 x CocaCola @ 5,00 KM = 50,00 KM
+
+Total Order Value: 0,00 KM
+
+==================== NEW ORDER ====================
+
+Employee Information
+--------------------
+Name   : elhad
+Date   : 13. 6. 2025. 00:43:54
+
+Order Items
+-----------
+1 x Kafa @ 2,00 KM = 2,00 KM
+1 x Sladoled Čokolada @ 2,00 KM = 2,00 KM
+
+Total Order Value: 4,00 KM

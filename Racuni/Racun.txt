@@ -1,0 +1,13 @@
+
+==================== NEW ORDER ====================
+
+Employee Information
+--------------------
+Name   : elhad
+Date   : 13. 6. 2025. 00:43:47
+
+Order Items
+-----------
+1 x Kafa @ 2,00 KM = 2,00 KM
+
+Total Order Value: 2,00 KM

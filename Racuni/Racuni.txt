@@ -1,0 +1,13 @@
+
+==================== NEW ORDER ====================
+
+Employee Information
+--------------------
+Name   : elhad
+Date   : 12. 6. 2025. 02:23:35
+
+Order Items
+-----------
+1 x CocaCola @ 5,00 KM = 5,00 KM
+
+Total Order Value: 5,00 KM
